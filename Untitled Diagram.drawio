@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="26.0.5">
   <diagram name="Page-1" id="fYQZJ73oMIkXafzaHs47">
-    <mxGraphModel>
+    <mxGraphModel dx="1749" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7P22xFa-1Do2rENwZ2aG-1" value="main game" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="339" y="630" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7P22xFa-1Do2rENwZ2aG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7P22xFa-1Do2rENwZ2aG-4" target="7P22xFa-1Do2rENwZ2aG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7P22xFa-1Do2rENwZ2aG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7P22xFa-1Do2rENwZ2aG-4" target="7P22xFa-1Do2rENwZ2aG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7P22xFa-1Do2rENwZ2aG-4" value="rhythm game" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="354" y="380" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7P22xFa-1Do2rENwZ2aG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7P22xFa-1Do2rENwZ2aG-6" target="7P22xFa-1Do2rENwZ2aG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7P22xFa-1Do2rENwZ2aG-6" value="go through door" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="489" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7P22xFa-1Do2rENwZ2aG-7" value="find hidden room" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="250" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7P22xFa-1Do2rENwZ2aG-8" value="TODO achievement" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
